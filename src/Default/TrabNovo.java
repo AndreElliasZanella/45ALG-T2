@@ -10,7 +10,7 @@ package Default;
  * @author andreellias18
  */
 public class TrabNovo {
-    //teste
+    //teste2
     public static void main(String[] args) {
         new Tabuleiro();
     }
